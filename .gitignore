@@ -1,3 +1,7 @@
+# ingnore importance
+Python/Notes
+Python/tansaku
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
